@@ -6,10 +6,3 @@ echo "Server IP: $ip_server", "<br><p>";
 echo "Made by <font color=blue>ART PRO"
 
 ?>
-
-
-
-
-
-
-
